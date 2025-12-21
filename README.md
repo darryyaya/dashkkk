@@ -1,1 +1,1 @@
-# (Y ∨ Z ↔ X) ∨ ((X → Y) ∨ Z) ≡ (X ↔ (Y ∨ Z)) ∨ (¬X ∨ Y ∨ Z) ≡ (X ∧ (Y ∨ Z)) ∨ (¬X ∧ ¬(Y ∨ Z)) ∨ ¬X ∨ Y ∨ Z ≡ (X ∧ (Y ∨ Z)) ∨ (¬X ∧ ¬Y ∧ ¬Z) ∨ ¬X ∨ Y ∨ Z ≡ ¬X ∨ Y ∨ Z ∨ (X ∧ (Y ∨ Z)) ∨ (¬X ∧ ¬Y ∧ ¬Z) ≡ ¬X ∨ Y ∨ Z ∨ (¬X ∧ ¬Y ∧ ¬Z) ≡ ¬X ∨ Y ∨ Z ≡ X → (Y ∨ Z) 
+# (Y ∨ Z ↔ X) ∨ ((X → Y) ∨ Z) 
