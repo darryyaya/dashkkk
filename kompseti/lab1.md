@@ -172,7 +172,7 @@
 
 ### 6.1. Команда ipconfig /all
 
-```cmd
+cmd
 C:\Users\Kozlov> ipconfig /all
 
 Настройка протокола IP для Windows
